@@ -4,8 +4,8 @@
 ✨✨
 
 - 🔭 I’m currently managing setup migrations related product development for fusion cloud
-- 🌱 I’m currently learning Artificial intelligence
-- 👯 I’m looking to collaborate on Data analytics
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on generative AI
 - 💬 Ask me about Java, Spring Boot and React
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devikumar)
