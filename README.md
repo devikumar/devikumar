@@ -10,4 +10,4 @@
 - 💬 Ask me about Java, Spring Boot and React
 - 📫 How to reach me: ...
 
-![Profile view counter on GitHub](https://github.com/devikumar)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devikumar)
