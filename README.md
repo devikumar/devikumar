@@ -8,6 +8,5 @@
 - 👯 I’m looking to collaborate on Data analytics
 - 🤔 I’m looking for help with Big Data
 - 💬 Ask me about Java, Spring Boot and React
-- 📫 How to reach me: ...
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devikumar)
