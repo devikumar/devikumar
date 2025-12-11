@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Devikumar
 
-**I am an enthusiastic Technical Product Manager with experience managing projects involving Java, Spring Boot, Microservices-based architectures, and React.js. I oversee the design and implementation of enterprise-wide solutions and manage end-to-end lifecycle implementations.**
+**I am an enthusiastic software professional with experience managing projects involving Java, Spring Boot, Microservices-based architectures, and React.js. I oversee the design and implementation of enterprise-wide solutions and manage end-to-end lifecycle implementations.**
 ✨✨
 
 - 🔭 I’m currently managing setup migrations related product development for fusion cloud
